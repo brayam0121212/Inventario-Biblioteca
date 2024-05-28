@@ -1,0 +1,10 @@
+.footer {
+    background-color: rgb(0, 0, 0);
+    color: rgb(24, 150, 30);
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  /*# sourceMappingURL=bootstrap.css.map */
